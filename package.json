@@ -1,0 +1,19 @@
+{
+  "name": "@gitcrane/user-object-package",
+  "version": "1.0.0",
+  "description": "Private Package -- Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitcrane/user-object-package.git"
+  },
+  "author": "Crane Bird",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/gitcrane/user-object-package/issues"
+  },
+  "homepage": "https://github.com/gitcrane/user-object-package#readme"
+}
